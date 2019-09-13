@@ -6,7 +6,7 @@ server {
 
         index index.html;
 
-        server_name webassembly.site hw01.webassembly.site;
+        server_name hw01.webassembly.site;
 
         location / {
                 # First attempt to serve request as file, then
